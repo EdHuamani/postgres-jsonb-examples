@@ -1,5 +1,5 @@
 # postgres-jsonb-examples
-postgres 9.5 examples for jsonb
+postgres version >=9.5 examples for jsonb
 
 
 ### Add elements in array
